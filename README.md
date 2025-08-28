@@ -32,3 +32,18 @@ It also includes a **menu-driven interface** where users can choose different op
 3. Run the program:
       ```sh
       java ascii
+📖 Learning Outcomes
+
+Through this project, I practiced and understood:
+
+Java loops (Nested for loops).
+
+Conditional statements (if-else).
+
+Menu-driven program design in Java.
+
+Handling user input/output in console applications.
+
+🙌 Acknowledgment
+
+This project is created as part of BCA 2nd Year, 3rd Semester at Dezyne École College.
