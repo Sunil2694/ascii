@@ -36,7 +36,7 @@ It also includes a **menu-driven interface** where users can choose different op
 
 Through this project, I practiced and understood:  
 
-- **Java loops** (`for`, `while`)  
+- **Java loops** (`Nested for loops`, `do-while loop`)  
 - **Conditional statements** (`if-else`)  
 - **Menu-driven program design** in Java  
 - Handling **user input/output** in console applications  
