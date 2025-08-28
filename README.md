@@ -32,6 +32,3 @@ It also includes a **menu-driven interface** where users can choose different op
 3. Run the program:
       ```sh
       java ascii
-
-   ```sh
-   javac ascii.java
